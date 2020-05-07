@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256970404320",
+    "firebase_url": "https://telalogin-72f39.firebaseio.com",
+    "project_id": "telalogin-72f39",
+    "storage_bucket": "telalogin-72f39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256970404320:android:918875024b765dbd",
+        "android_client_info": {
+          "package_name": "com.example.myflutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256970404320-pk314ii0bqapktn3kjmjum52a7qln6rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKO8xuDFLP3--454HY-jDk9jzrzAEW2mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256970404320-pk314ii0bqapktn3kjmjum52a7qln6rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
