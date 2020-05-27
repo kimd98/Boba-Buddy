@@ -5,3 +5,5 @@ Bubble tea is one of the most popular drinks on campus, and you'd often see long
 We used Flutter and Dart, along with hand-drawn graphics to enhance the app's UI. Building this app was a steep learning curve for us, as most of the team was new to mobile development. We learned how to write code in Dart for specific functionalities, as well as basic app design for a more streamlined user experience. Expanding the menus and adding in different quizzes will be next for this project!
 
 https://youtu.be/lA_zChPqHCo
+
+*2020 cmd-f Hackathon (Team members: Emily Lukas, Sofia Bandeira, Veronica Nguyen)
