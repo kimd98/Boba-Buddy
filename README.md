@@ -6,4 +6,4 @@ We used Flutter and Dart, along with hand-drawn graphics to enhance the app's UI
 
 https://youtu.be/lA_zChPqHCo
 
-*2020 cmd-f Hackathon (Team members: Emily Lukas, Sofia Bandeira, Veronica Nguyen)
+*2020 cmd-f Hackathon (Team Members: Emily Lukas, Sofia Bandeira, Veronica Nguyen)
